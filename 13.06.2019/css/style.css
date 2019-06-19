@@ -1,0 +1,305 @@
+/* Exercise #1 (image 1) */
+
+.Black {
+    color: black;
+    border:2px solid black;
+    margin: 40px 30px 40px 70px;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Yellow {
+    color: black;
+    border:2px solid yellow;
+    margin: 40px 30px 40px 0px;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Red {
+    color:black;
+    border:2px solid red;
+    margin: 40px 30px 40px 0px;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Turquoise {
+    color:black; 
+    border:2px solid turquoise;
+    margin: 40px 30px 40px 0px;
+    padding: 15px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+/* Exercise #2 (image 2) */
+
+.Dim-Grey {
+    background-color: dimgrey;
+    color: white;
+    margin: 70px 35px 40px 30px;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Gold {
+    color: black;
+    background-color: gold;
+    margin: 70px 35px 40px 0px;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Light-Coral {
+    color: white;
+    background-color: lightcoral;
+    margin: 70px 35px 40px 0px;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Light-Grey {
+    color: black;
+    background-color: lightgrey;   
+    margin: 70px 35px 40px 0px;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Light-Sky-Blue {
+    color: white;
+    background-color: lightskyblue;
+    margin: 70px 35px 40px 5px;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+/* Exercise #3 (image 3) */
+
+.Button1 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px 10px 10px 0px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button2 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    border-radius: 10px 10px 0px 10px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button3 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    border-radius: 10px 0px 10px 10px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button4 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    border-radius: 0px 10px 10px 10px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button5 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button6 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    border-radius: 0px 0px 10px 10px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button7 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    border-radius: 10px 0px 0px 10px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button8 {
+    background-color: rgb(56, 46, 46);
+    margin: 10px 600px 10px 600px;
+    border-radius: 0px 10px 10px 0px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+/* Exercise #4 (image 4) */
+
+.Button-darkred {
+    background-color: darkred;
+    color:white;
+    border-radius: 5px;
+    margin: 5px 50px 5px 550px;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button-dodgerblue {
+    background-color: dodgerblue; 
+    color:white;
+    border-radius: 10px;
+    margin: 5px 50px 5px 550px;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button-green {
+    background-color: green;
+    color:white;
+    border-radius: 15px;
+    margin: 5px 50px 5px 550px;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.Button-darkgoldenrod {
+    background-color:darkgoldenrod;
+    color:white;
+    border-radius: 20px;
+    margin: 5px 50px 5px 550px;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+h5 {
+    font-family: sans-serif;
+}
+
+/* Exercise #5 (image 5) */
+
+h4 {
+    display: inline;
+    color: rgb(129, 121, 121);
+    margin-left: 20px;
+}
+.Mini-Button {
+    color: white;
+    background-color: royalblue;
+    margin-left: 20px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: x-small;
+}
+.Default-Button {
+    color: white;
+    background-color: royalblue;
+    margin-left: 20px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: small;
+}
+.Large-Button {
+    color: white;
+    background-color: royalblue;
+    margin-left: 20px;
+    padding: 7px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: large;
+}
+.Mini-Rounded {
+    color: white;
+    background-color: royalblue;
+    margin-left: 20px;
+    padding: 3px 8px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: x-small;
+}
+.Default-Rounded {
+    color: white;
+    background-color: royalblue;
+    margin-left: 20px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: small;
+}
+.Large-Rounded {
+    color: white;
+    background-color: royalblue;
+    margin-left: 20px;
+    padding: 7px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+/* Exercise #6 (image 6) */
+
+h3 {
+    color: black;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+h1 {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+.Demo-Link {
+    color: white;
+    background-color: deepskyblue;
+    margin-right: 5px;
+    padding: 10px 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: large;
+}
+.Purchase-Link {
+    color: white;
+    background-color: mediumspringgreen;
+    margin-left: 5px;
+    padding: 10px 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: large;
+}
+
+/* Exercise #7 (image 7) */
+
+h2 {
+    margin-left: 20px;
+}
+p {
+    margin-left: 20px;
+}
